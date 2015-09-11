@@ -1,0 +1,1 @@
+Skin per Rainmenter che permette di controllare il traffico consumato e quello residuo di una connessione con limite, oltre al credito EOLO Voce (per tutte le connessioni EOLO con questo accessorio).
